@@ -1,0 +1,100 @@
+/* for the header */
+.hd {
+     text-align: center;
+     padding: 0%;
+     margin: 0%;
+     color: #f4f4f4; 
+     background-color: #717070;
+}
+
+/* Changing the font in header */
+.nai{
+     font-size: 30px;
+     margin: 0%;
+}
+
+/* for the span */
+.com{
+     font-weight: bold;
+     font-family: 'Franklin Gothic Medium', Arial, sans-serif;
+     color:#751f07;
+      font-size: 30px;
+     margin: 0%;
+}
+
+.intro{
+     font-size: 20px;
+}
+
+/* body edits */
+body {
+     font: 15px/1.5 Arial, Helvetica, sans-serif;
+     padding: 0;
+     margin: 35px;
+     background-color: #f4f4f4;
+}
+
+/* header 3 */
+h3 {
+     color:#e8491d;
+     font-size: 30px;
+}
+
+/* heading for ingriedient */
+.ingredient {
+     color:#474444;
+     font-size: larger;
+
+}
+
+/* heading for recipe */
+.recipe {
+     color:#474444;
+     font-size: larger;
+     font-weight: bold;
+     font-weight: bold;
+}
+
+/* background for health benefits */
+.health {
+     background-color: #353535;
+     color: #f4f4f4;
+     margin: 15px;
+     padding: 25px;
+     font-weight: bold;
+}
+
+/* heading for health benefits */
+.benefits {
+     color: #e8491d;
+     font-size: larger;
+}
+
+/*for hover function*/
+#hov :hover{
+     color: #302f2f;
+     font-style: italic;
+}
+
+/* Styling aside */
+.aside{
+     float: right;
+     width: 50%;
+     margin-top: 10px;
+     
+}
+
+/* Styling emphasis */
+.em {
+     font-size: small;
+     color: #751f07;
+     font-weight: 200;
+}
+
+#back{
+     background-color: #dedede;
+     float: left;
+     padding: 1%;
+     margin: 0%;
+}
+
